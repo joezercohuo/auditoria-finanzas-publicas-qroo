@@ -14,7 +14,6 @@ Análisis integral de los procedimientos de contratación pública (Licitación 
 3. **Concentración y Fraccionamiento:** Identificación de anomalías en la frecuencia de contratos, destacando empresas con hasta 12 adjudicaciones directas en el mismo periodo (posible fraccionamiento) frente a proveedores que concentran el mayor volumen de gasto en una sola asignación.
 
 ## 📁 Estructura del Repositorio
-* `1_Limpieza_Datos.ipynb`: Script documentado con el proceso de extracción, limpieza y corrección de formato del padrón oficial.
-* `2_Pruebas_Estadisticas.ipynb`: Código con el test de medias (T-test) y métricas de dispersión.
+* `1_Limpieza_Datos.ipynb`: Script documentado con la extracción, limpieza y pruebas de hipótesis (T-test).
 * `dashboard_auditoria.pbix`: Archivo fuente del panel de control (Dashboard).
 * `contratos_limpios_qroo.csv`: Dataset optimizado listo para modelado.
